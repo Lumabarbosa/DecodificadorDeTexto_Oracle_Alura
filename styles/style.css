@@ -260,7 +260,7 @@ quando a classe dark seja executada junto com a classe trilho */
     text-align:left;
     padding: 1%;
     border-radius: 10px;
-    margin-top: 90%;
+    margin-top: 50%;
 }
 
 .botoes {
@@ -314,14 +314,13 @@ quando a classe dark seja executada junto com a classe trilho */
 #texto-resultado {
     flex-direction: column;
     justify-content: center;
-    align-items: end;
+    align-items: center;
     width: 100%;
     height: 100%;
     border: 5px solid var(--cor-primaria);
     background-color: #f9f9f9;
     border-radius: 30px;
     margin-top: 30%;
-    margin-left: 15%;
     font-size: 37px;
     padding: 3% 3% 3% 3%;
 }
@@ -370,7 +369,7 @@ quando a classe dark seja executada junto com a classe trilho */
 
 #btn-copy {
     display: flex;
-    align-items: start;
+    align-items: center;
     font-weight: 400;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
@@ -381,7 +380,7 @@ quando a classe dark seja executada junto com a classe trilho */
     cursor: pointer;
     font-size: 24px;
     width: 100%;
-    margin: 2% 15%;
+    margin: 2%;
 }
 
 #btn-copy:hover {
