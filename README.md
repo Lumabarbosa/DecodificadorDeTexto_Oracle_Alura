@@ -42,7 +42,7 @@ A lógica de negócios é implementada em JavaScript. As principais funções in
 
 ### Como Executar
 
-1. **Clone o repositório:** git@github.com:Lumabarbosa/decodificador-de-texto-Oracle-Alura.git
+1. **Clone o repositório:** https://github.com/Lumabarbosa/DecodificadorDeTexto_Oracle_Alura.git
 2. **Navegue até o diretório do projeto:** cd decodificador-de-texto-Oracle-Alura
 3. **Abra o arquivo index.html no seu navegador preferido.**
 
